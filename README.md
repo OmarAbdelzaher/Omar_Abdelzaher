@@ -30,24 +30,24 @@ I am studying systems and biomedical engineering at the faculty of engineering, 
 
 ## Skills
 Technical Skills:
-  <li>HTML</li>
-	<li>CSS</li>
-	<li>Git</li>
-	<li>Python</li>
-	<li>C++</li>
-  <li>R Language</li>
-  <li>Latex</li>
-  <li>Matlab</li>
+- HTML
+- CSS
+-	Git
+-	Python
+-	C++
+- R Language
+- Latex
+- Matlab
 
 Soft Skills:
-    <li>Communication Skills</li>
-    <li>Presentation Skills</li>
-    <li>Negotiation Skills</li>
-    <li>Research Skills</li>
-    <li>Time Management</li>
-    <li>Problem Solving</li>
+- Communication Skills
+- Presentation Skills
+-  Negotiation Skills
+- Research Skills
+- Time Management
+-  Problem Solving
 
 
 
 ## Projects
-To be inserted 
+To be inserted
