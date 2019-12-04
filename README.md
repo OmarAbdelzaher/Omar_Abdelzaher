@@ -50,8 +50,8 @@ I am studying systems and biomedical engineering at the faculty of engineering, 
     - Time Management
     - Problem Solving
 
-## Projects :
-To be inserted
+## Blogs :
+[Project in R : Haberman's Survival with Machine Learning](https://omarabdelzaher.github.io/Machine-Learning-Blog/)
 
 # To get in touch:
 
