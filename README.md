@@ -2,7 +2,7 @@
 
 
 
-<img src="omar.jpg" width="250" height="250" />
+<img src="Omar.jpeg" width="250" height="250" />
 
 ## Bio
 
@@ -20,7 +20,9 @@
 
 **E-mail** : omarzaher787@gmail.com
 
-If you want to take a look on my Curriculum Vitae just click on : [CV](https://drive.google.com/open?id=1InW1cg-xofj63tdavVl0dtXgwdDiF5VK)
+**GPA** : 3.48
+
+If you want to take a look on my Curriculum Vitae just click on : [CV](https://drive.google.com/file/d/1rHSWd_nqtvr4Tj1tDyfbJbJLDt5GWpbn/view?usp=sharing)
 
 
 
@@ -45,7 +47,7 @@ I am studying systems and biomedical engineering at the faculty of engineering, 
 
     - Communication Skills
     - Presentation Skills
-    - Negotiatian Skills
+    - Negotiation Skills
     - Research Skills
     - Time Management
     - Problem Solving
@@ -53,6 +55,47 @@ I am studying systems and biomedical engineering at the faculty of engineering, 
 ## Blogs :
 [Project in R : Haberman's Survival with Machine Learning](https://omarabdelzaher.github.io/Machine-Learning-Blog/)
 
-# To get in touch:
+## Projects & Acheivements :
+* Medical Equipment Field:
+ * Microbiology unit
+ * Baby Incubator
+ * Prosthetic limb
+ * Fluid level detector
+
+
+* Database Field:
+ * Huffman compression and decompression
+ * CMMS system for hospitals
+   * Repository: https://github.com/remonalbear/CMMS
+
+
+* DSP Field: o Signal Viewer with 5 channels
+ * Equalizer
+ * Image Mixer
+ * Shazam like application (Sound Recognition)
+ * Sound separator (Cocktail party problem)
+ * Virtual Instruments (Piano – Guitar) Note: All in **Python** programming language
+
+
+* Graphics Field:
+ * A Robot that can move, sit down, stand up, hold things in a scene. The scene consists of a floor (Texture Mapped) that we can change through a menu.
+ * The scene includes objects and can be viewed from different angles as we can control the camera movement.
+   * Note: Using **OpenGL**  
+	* Repository: https://github.com/SaraAdel540/Graphics-Final_Project
+
+
+* Electronics Field:
+ * Traffic Light using **Assembly** language
+   * Repository: https://github.com/remonalbear/Trassic_Light_Assembley_8051
+ * Elevator using **C** language
+   * Repository: https://github.com/remonalbear/Elavotor_8051
+ * Digital Filter using **C** language
+
+
+* A Mathematical Model for robot indenter
+Submitted to Dr. Ahmed G. Radwan / Cairo University
+Info: A Scientific report about a mathematical model for robot indenter in the surgical field.
+
+# To get in touch :
 
 [<img src="faf.png" width="60" height="60" />](https://www.facebook.com/omarzaher222)    [<img src="linkedin.png" width="60" height="60" />](https://www.linkedin.com/in/omar-abdelzaher-30239816b/)    [<img src="twitter.png" width="60" height="60" />](https://twitter.com/Omar_Zaher97?s=08)  [<img src="github.png" width="60" height="60" />](https://github.com/OmarAbdelzaher)
