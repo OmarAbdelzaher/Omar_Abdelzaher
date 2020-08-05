@@ -8,7 +8,7 @@
 
 **Name** : Omar Abdelzaher Ahmed
 
-**Age** : 22
+**Age** : 23
 
 **University** : Cairo University
 
@@ -16,7 +16,7 @@
 
 **Department** : Systems and Biomedical Engineering
 
-**Academic year** : 3rd year
+**Academic year** : 4rd year
 
 **E-mail** : omarzaher787@gmail.com
 
