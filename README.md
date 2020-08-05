@@ -95,7 +95,7 @@ I am studying systems and biomedical engineering at the faculty of engineering, 
 
 * A Mathematical Model for robot indenter
 Submitted to Dr. Ahmed G. Radwan / Cairo University
-Info: A Scientific report about a mathematical model for robot indenter in the surgical field.
+  * Info: A Scientific report about a mathematical model for robot indenter in the surgical field.
 
 # To get in touch :
 
