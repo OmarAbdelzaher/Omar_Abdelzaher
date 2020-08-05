@@ -57,39 +57,40 @@ I am studying systems and biomedical engineering at the faculty of engineering, 
 
 ## Projects & Acheivements :
 * Medical Equipment Field:
- * Microbiology unit
- * Baby Incubator
- * Prosthetic limb
- * Fluid level detector
+  * Microbiology unit
+  * Baby Incubator
+  * Prosthetic limb
+  * Fluid level detector
 
 
 * Database Field:
- * Huffman compression and decompression
- * CMMS system for hospitals
-   * Repository: https://github.com/remonalbear/CMMS
+  * Huffman compression and decompression
+  * CMMS system for hospitals
+    * Repository: https://github.com/remonalbear/CMMS
 
 
-* DSP Field: o Signal Viewer with 5 channels
- * Equalizer
- * Image Mixer
- * Shazam like application (Sound Recognition)
- * Sound separator (Cocktail party problem)
- * Virtual Instruments (Piano – Guitar) Note: All in **Python** programming language
+* DSP Field:
+  * Signal Viewer with 5 channels
+  * Equalizer
+  * Image Mixer
+  * Shazam like application (Sound Recognition)
+  * Sound separator (Cocktail party problem)
+  * Virtual Instruments (Piano – Guitar) Note: All in **Python** programming language
 
 
 * Graphics Field:
- * A Robot that can move, sit down, stand up, hold things in a scene. The scene consists of a floor (Texture Mapped) that we can change through a menu.
- * The scene includes objects and can be viewed from different angles as we can control the camera movement.
-   * Note: Using **OpenGL**  
-	* Repository: https://github.com/SaraAdel540/Graphics-Final_Project
+  * A Robot that can move, sit down, stand up, hold things in a scene. The scene consists of a floor (Texture Mapped) that we can change through a menu.
+  * The scene includes objects and can be viewed from different angles as we can control the camera movement.
+    * Note: Using **OpenGL**  
+	 * Repository: https://github.com/SaraAdel540/Graphics-Final_Project
 
 
 * Electronics Field:
- * Traffic Light using **Assembly** language
-   * Repository: https://github.com/remonalbear/Trassic_Light_Assembley_8051
- * Elevator using **C** language
-   * Repository: https://github.com/remonalbear/Elavotor_8051
- * Digital Filter using **C** language
+  * Traffic Light using **Assembly** language
+    * Repository: https://github.com/remonalbear/Trassic_Light_Assembley_8051
+  * Elevator using **C** language
+    * Repository: https://github.com/remonalbear/Elavotor_8051
+  * Digital Filter using **C** language
 
 
 * A Mathematical Model for robot indenter
