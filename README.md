@@ -66,7 +66,7 @@ I am studying systems and biomedical engineering at the faculty of engineering, 
 * Database Field:
   * Huffman compression and decompression
   * CMMS system for hospitals
-    * Repository: https://github.com/remonalbear/CMMS
+    * [Repository](https://github.com/remonalbear/CMMS)
 
 
 * DSP Field:
@@ -82,14 +82,14 @@ I am studying systems and biomedical engineering at the faculty of engineering, 
   * A Robot that can move, sit down, stand up, hold things in a scene. The scene consists of a floor (Texture Mapped) that we can change through a menu.
   * The scene includes objects and can be viewed from different angles as we can control the camera movement.
     * Note: Using **OpenGL**  
-	 * Repository: https://github.com/SaraAdel540/Graphics-Final_Project
+	 * [Repository](https://github.com/SaraAdel540/Graphics-Final_Project)
 
 
 * Electronics Field:
   * Traffic Light using **Assembly** language
-    * Repository: https://github.com/remonalbear/Trassic_Light_Assembley_8051
+    * [Repository](https://github.com/remonalbear/Trassic_Light_Assembley_8051)
   * Elevator using **C** language
-    * Repository: https://github.com/remonalbear/Elavotor_8051
+    * [Repository](https://github.com/remonalbear/Elavotor_8051)
   * Digital Filter using **C** language
 
 
