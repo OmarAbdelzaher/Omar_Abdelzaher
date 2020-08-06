@@ -16,9 +16,11 @@
 
 **Department** : Systems and Biomedical Engineering
 
-**Academic year** : 4rd year
+**Academic year** : 4th year
 
 **E-mail** : omarzaher787@gmail.com
+
+**Phone number** : 01063204965
 
 **GPA** : 3.48
 
